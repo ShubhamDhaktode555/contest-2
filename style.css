@@ -1,0 +1,248 @@
+body{
+    background-color: #1E1E1E;;
+}
+nav{
+position: absolute;
+width: 1728px;
+height: 86px;
+left: 0px;
+top: 0px;
+background: #FCAF02;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
+li{
+    list-style-type: none;
+}
+.home{
+position: absolute;
+width: 87px;
+height: 34px;
+left: 1048px;
+top: 26px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+color: #000000;
+}
+.about{
+position: absolute;
+width: 130px;
+height: 34px;
+left: 1185px;
+top: 26px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+}
+.contact{
+    position: absolute;
+    width: 155px;
+    height: 34px;
+    left: 1365px;
+    top: 26px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+}
+.login{
+position: absolute;
+width: 80px;
+height: 34px;
+left: 1570px;
+top: 26px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+}
+.startup{
+position: absolute;
+width: 127px;
+height: 39px;
+left: 58px;
+top: 24px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+}
+.head{
+position: absolute;
+width: 736px;
+height: 78px;
+left: 58px;
+top: 174px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 78px;
+color: #FFFFFF;
+}
+.para{
+position: absolute;
+width: 917px;
+height: 238px;
+left: 63px;
+top: 285px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+color: #FFFFFF;
+}
+.btn{
+    position: absolute;
+    width: 323px;
+    height: 45px;
+    left: 177px;
+    top: 587px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+}
+button{
+position: absolute;
+height: 66px;
+left: 63px;
+top: 573px;
+background: #FCAF02;
+border-radius: 500px;
+}
+.image{
+position: absolute;
+width: 697px;
+height: 482px;
+left: 1000px;
+top: 173px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.head2{
+position: absolute;
+width: 369px;
+height: 78px;
+left: 63px;
+top: 771px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 78px;
+color: #FCAF02;
+}
+.input1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1570px;
+    height: 82px;
+    left: 63px;
+    top: 913px;
+    border: 2px solid #FCAF02;
+    border-radius: 100px;
+}
+.input2{
+box-sizing: border-box;
+position: absolute;
+width: 1570px;
+height: 82px;
+left: 63px;
+top: 1045px;
+border: 2px solid #FCAF02;
+border-radius: 100px;
+}
+.input3{
+box-sizing: border-box;
+position: absolute;
+width: 730px;
+height: 82px;
+left: 63px;
+top: 1177px;
+border: 2px solid #FCAF02;
+border-radius: 100px;
+}
+.input4{
+box-sizing: border-box;
+position: absolute;
+width: 767px;
+height: 82px;
+left: 866px;
+top: 1177px;
+border: 2px solid #FCAF02;
+border-radius: 100px;
+}
+::placeholder{
+ font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+color: #FCAF02;
+padding-left: 20px;
+}
+input{
+    background-color: #1E1E1E;
+}
+#btn1{
+position: absolute;
+width: 219px;
+height: 39px;
+left: 738px;
+top: 1347px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+color: #000000;
+}
+.submit{
+box-sizing: border-box;
+position: absolute;
+width: 325px;
+height: 82px;
+left: 685px;
+top: 1326px;
+background: #FCAF02;
+border: 2px solid #FCAF02;
+border-radius: 100px;
+}
+table{
+position: absolute;
+width: 379px;
+height: 34px;
+left: 768px;
+top: 1673px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+color: #FCAF02;
+border: 2px solid #FCAF02;
+}
+table, th{
+    border: 2px solid #FCAF02;
+    border-collapse: collapse;
+}
+table{
+    width: 1552px;
+    left: 75px;
+}
+table, th, td{
+    padding: 35px;
+}
